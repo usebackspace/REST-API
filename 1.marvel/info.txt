@@ -1,0 +1,3 @@
+Get_Method:
+
+In this we will code to fetch the data through api.

@@ -1,0 +1,3 @@
+Post_Method:
+ 
+In this we will create data and add it to the django model.
